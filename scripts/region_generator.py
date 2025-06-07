@@ -9,7 +9,7 @@ import xtgeo
 from typing import Tuple
 
 
-def create_region_fields(grid: xtgeo.Grid, output_dir: str = "../include/SOLUTION"):
+def create_region_fields(grid: xtgeo.Grid, output_dir: str = "../include/REGIONS"):
     """Generate all region definition fields"""
     
     nx, ny, nz = grid.dimensions
