@@ -218,3 +218,4 @@ if __name__ == "__main__":
     
     print("\nSample SWOF table (first 10 rows):")
     print(wo.table.head(10).to_string(index=False))
+
