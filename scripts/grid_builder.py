@@ -347,3 +347,4 @@ def create_simple_reservoir_model():
 if __name__ == "__main__":
     print("Creating Eclipse reservoir grid...")
     model = create_simple_reservoir_model()
+
