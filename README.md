@@ -12,8 +12,7 @@ EXAMPLE_FIELD/
 │   ├── SOLUTION/            # Initial conditions
 │   └── SCHEDULE/            # Wells and production schedule
 ├── scripts/                 # Python generation scripts
-├── output/                  # Simulation results
-└── data/                   # Input data
+└── output/                  # Simulation results
 ```
 
 ## Model Parameters
