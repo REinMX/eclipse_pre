@@ -9,3 +9,4 @@ opm>=2023.10
 xtgeo>=3.0.0
 fmu-ensemble>=1.6.0
 subscript>=4.0.0
+

@@ -72,3 +72,4 @@ if __name__ == "__main__":
         create_region_fields(grid)
     except:
         print("No grid found - run eclipse_deck_builder.py first")
+
